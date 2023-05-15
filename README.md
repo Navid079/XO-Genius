@@ -31,4 +31,4 @@ We appreciate any ideas, bug reports, or pull requests you may have. Let's make 
 
 ## License
 
-Unbeatable Tic Tac Toe is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
+XO Genius is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
